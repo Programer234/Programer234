@@ -1,10 +1,11 @@
-class Attributes(Programer):
+class Attributes(Programer12):
     def __init__(self) -> None:
         super().__init__()
         
     @staticmethod
     def contact() -> str:
-        return "No contact information provided."
+        return "No contact information provided.
+        
 
     @staticmethod
     def life() -> tuple:
